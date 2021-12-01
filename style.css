@@ -70,7 +70,8 @@ margin-top: -300px;
 }
 
 .right{
-  width: 15%;
+  width: 10%;
+  float: right;
 }
 
 .logo{
